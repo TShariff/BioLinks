@@ -1,0 +1,98 @@
+.App {
+  text-align: center;
+}
+
+.profile-pic {
+  position: fixed;
+  top: 10px;
+  border-radius: 50%;
+  width: 98px;
+  height: 96px;
+  display: block;
+  object-position: initial;
+  filter: none;
+}
+
+.App-header {
+  background-color: #9FFFCB;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+h1{
+  position: fixed;
+  top: 150px;
+  font-size: 20px;
+
+}
+
+
+.App-link {
+  color: #61dafb;
+}
+.button {
+
+  background-color: #00A5CF;
+  border: none;
+  color: black;
+  padding: 15px 200px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+.button:hover {
+  background-color:#004E64;
+  transition: 0.7s;
+}
+.button2 {
+
+  width: 100%;
+  background-color: #00A5CF;
+  border: none;
+  padding: 15px 200px;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+.button2:hover {
+  background-color:#004E64;
+  transition: 0.7s;
+}
+.button3 {
+
+  width: 100%;
+  background-color: #00A5CF;
+  border: none;
+  padding: 15px 200px;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+.button3:hover {
+  background-color:#004E64;
+  transition: 0.7s;
+}
+
+
+
+q{
+  position: fixed;
+  bottom: 0;
+  font-size: 15px;
+}
+
