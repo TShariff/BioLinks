@@ -91,11 +91,17 @@
 }
 
 
-
+a{
+  color: white;
+  text-decoration: none;
+}
 h1{
+  color: white;
+  font-family: "Link Sans";
   position: fixed;
   top: 150px;
-  font-size: 20px;
+  font-size: 25px;
+  text-decoration: none;
 
 }
 
@@ -159,9 +165,16 @@ h1{
 
 
 
-q{
+h2{
+  font-family: "Link Sans";
+  color: white;
+  text-decoration: none;
   position: fixed;
   bottom: 0;
   font-size: 15px;
+}
+a2{
+  color: white;
+  text-decoration: none;
 }
 
