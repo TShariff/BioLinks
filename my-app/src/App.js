@@ -5,8 +5,10 @@ import * as React from 'react';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-
+      <body className="body">
+        <div class="wave"></div>
+        <div class="wave"></div>
+        <div class="wave"></div>
         <img src={logo} className = "profile-pic" width="200px" alt="logo" style={{width: 150, height: 150, borderRadius: 200/ 2}}/>
         <h1> @tamjeed.s</h1>
         <form action="https://tamjeedshariff.tech/">
@@ -27,7 +29,7 @@ function App() {
         <q>
           Why use linktree when I can just make it
         </q>
-      </header>
+      </body>
       
     
     </div>
