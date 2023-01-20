@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/BioLinks/static/css/main.6603c4d1.css",
-    "main.js": "/BioLinks/static/js/main.45d49d70.js",
+    "main.css": "/BioLinks/static/css/main.eab9c4d2.css",
+    "main.js": "/BioLinks/static/js/main.c39e4d4b.js",
     "static/js/787.28cb0dcd.chunk.js": "/BioLinks/static/js/787.28cb0dcd.chunk.js",
     "static/media/logo.png": "/BioLinks/static/media/logo.14797582e9e473839bc5.png",
     "index.html": "/BioLinks/index.html",
-    "main.6603c4d1.css.map": "/BioLinks/static/css/main.6603c4d1.css.map",
-    "main.45d49d70.js.map": "/BioLinks/static/js/main.45d49d70.js.map",
+    "main.eab9c4d2.css.map": "/BioLinks/static/css/main.eab9c4d2.css.map",
+    "main.c39e4d4b.js.map": "/BioLinks/static/js/main.c39e4d4b.js.map",
     "787.28cb0dcd.chunk.js.map": "/BioLinks/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6603c4d1.css",
-    "static/js/main.45d49d70.js"
+    "static/css/main.eab9c4d2.css",
+    "static/js/main.c39e4d4b.js"
   ]
 }
