@@ -26,7 +26,7 @@ function App() {
         <form action="mailto:t.tamjeed.shariff@gmail.com">
         <button class="button2">Email</button>
         </form>
-        <h2><a href="https://github.com/TShariff/BioLinks"> BioLinks X Tamjeed Shariff</a></h2>
+        <h2><a href="https://github.com/TShariff/BioLinks"> BioLinks X <b>Tamjeed Shariff</b></a></h2>
       </body>
       
     
