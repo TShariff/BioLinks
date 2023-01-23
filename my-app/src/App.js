@@ -9,6 +9,7 @@ function App() {
   return (
     <div className="App">
       <body className="body">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <div class="wave"></div>
         <div class="wave"></div>
         <div class="wave"></div>
@@ -26,7 +27,7 @@ function App() {
         <form action="mailto:t.tamjeed.shariff@gmail.com">
         <button class="button2">Email</button>
         </form>
-        <h2><a href="https://github.com/TShariff/BioLinks"> BioLinks X <b>Tamjeed Shariff</b></a></h2>
+        <h2><a href="https://github.com/TShariff/BioLinks"> BioLinks X <b>Tamjeed Shariff </b></a></h2>
       </body>
       
     
